@@ -1,0 +1,20 @@
+:root {
+    --primary-menu-color: #121f38;
+    --title-color:#121f38;
+    --top-bg-color: #313C45;
+    --theme-color: #9a563a; 
+    --white-color: #fff;
+    --white-color-1: #F1F1F1;
+    --white-color-2: #eff1f5;
+    --btn-color: #121f38;
+    --black-color: #000;
+    --black-color1: #303C44;
+    --gray-color: #A3A2A2;
+    --gray-color1: #BEBEBE;
+    --gray-color2: #555555;
+    --blue-color: #121f38;
+    --border-color: #e7e5e5;
+    --footer-bg-color: #232B31;
+    --light-brown-color: #FDE7DA;
+    --green-color: #6b8e23;
+}
